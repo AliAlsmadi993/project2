@@ -1,3 +1,3 @@
-https://www.figma.com/design/UDeSfNFd1HRqAkjDyihQMu/TASK1?node-id=0-1&t=3zxo6SCx9NUKeKoC-1
+https://www.figma.com/design/QcvNFKiCOv80tsbzVXbDhg/Untitled?node-id=0-1&t=zGLSUziBkNBw86pP-1
 link
 https://alialsmadi.netlify.app
